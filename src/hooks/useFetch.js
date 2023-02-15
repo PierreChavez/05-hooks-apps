@@ -25,7 +25,6 @@ export const useFetch = (url) => {
             isLoanding: false,
             hasError: null,
         })
-        console.log(data)
     }
 
 
